@@ -13,9 +13,9 @@
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
-  <video width="600" controls>
-    <source src="https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691" type="video/mp4" />
-    Your browser does not support the video tag.
-  </video>
+
 https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691
-<iframe width="560" height="315" src="https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
