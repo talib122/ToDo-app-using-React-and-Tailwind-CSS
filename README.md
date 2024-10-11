@@ -18,4 +18,4 @@
     Your browser does not support the video tag.
   </video>
 https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691
-[Watch the video](https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691)
+<iframe width="560" height="315" src="https://github.com/talib122/ToDo-app-using-React-and-Tailwind-CSS/issues/1#issue-2581152691" frameborder="0" allowfullscreen></iframe>
