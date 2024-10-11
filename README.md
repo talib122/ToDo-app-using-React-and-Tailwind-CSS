@@ -13,4 +13,7 @@
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
-<!-- <img src="my sign.jpg" alt="My Sign" width="500"/> -->
+  <video width="600" controls>
+    <source src="/todo.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
