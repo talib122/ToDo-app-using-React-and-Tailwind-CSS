@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Talib Hussain and this is ToDo app created in React using Tailwind css</h1>
+<h1 align="center">Hi 👋, I'm Talib Hussain and this is ToDo app created in React using Tailwind css </h1>
 <h3 align="center">A passionate React JS developer</h3>
 
 <h3 align="left">Follow steps below to run this app:</h3>
@@ -13,6 +13,8 @@
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
+
+I used the localstorage for storing task
 
 Check the Demo by clicking the link below
 
