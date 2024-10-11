@@ -163,7 +163,7 @@ const TodoBox = () => {
             completeTodos.map((item, index) => {
               return (
                 <div
-                  className="flex w-[600px] h-[130px] items-center justify-between mx-auto mt-4 bg-slate-900 shadow-[10px_20px_30px_rgb(30,20,30)]"
+                  className="flex w-[300px] md:w-[600px] h-[120px] md:h-[130px] items-center justify-between mx-auto mt-4 bg-slate-900 shadow-[10px_20px_30px_rgb(30,20,30)]"
                   key={index}
                 >
                   <div className="flex flex-col px-[30px] py-[15px] ">
