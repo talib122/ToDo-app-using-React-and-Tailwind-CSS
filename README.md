@@ -16,7 +16,7 @@
 
 I used the localstorage for storing task
 
-Check the Demo by clicking the link below
+Check the Demo video below
 
 https://github.com/user-attachments/assets/cdf2d465-cb2d-4b71-a176-34d76175fa19
 
