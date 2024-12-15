@@ -66,8 +66,8 @@ const TodoBox = () => {
   }, []);
 
   return (
-    <div className="py-[150px] px-[70px] md:px-[50px]">
-      <div className=" bg-[#3f4152] w-[370px] md:w-[720px] mx-auto">
+    <div className="py-[150px] px-[0px] md:px-[50px]">
+      <div className=" bg-[#3f4152] w-[340px] md:w-[720px] mx-auto">
         {/* Input Section */}
         <div className="flex flex-col mx-auto md:flex-row items-center justify-center mb-6 md:pt-12">
           <div className="flex flex-col ml-[10px] md:ml-[38px] ">
